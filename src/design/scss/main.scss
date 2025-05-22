@@ -1,0 +1,42 @@
+$neutral-1: #f5f9e9;
+$neutral-2: #090C02;
+$accent-1: #C2C1A5;
+$accent-2: #47A8BD;
+$primary: #1E3888;
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#root {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    min-height: 100dvh;
+    min-width: 100dvw;
+    padding: 0;
+    margin: 0;
+    background-color: $neutral-1;
+    overflow-y: auto;
+    position: relative;
+}
+
+.header-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 20px;
+}
+
+.nav-bar {
+    padding: 15px;
+    border-radius: calc(25px + 16px);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;//
+    background-color: $accent-1;
+}
+
+
+
