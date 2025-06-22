@@ -10,7 +10,8 @@
       "@components/*": ["components/*"],
       "@img/*": ["assets/img/*"],
       "@svg/*": ["assets/svg/*"],
-      "@design/*": ["design/css/*"]
+      "@design/*": ["design/css/*"],
+      "@json/*": ["env/json/*"]
     }
   }
 }

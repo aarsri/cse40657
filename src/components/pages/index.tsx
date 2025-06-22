@@ -1,22 +1,12 @@
+import Content from "../layout/content";
+import Footer from "../layout/footer";
 
 const Index = () => {
   return (
-    <>
-      <header className="header-container">
-        <nav className="nav-bar">
-          <div>
-            Class Name
-          </div>
-          Navigation Goes Here
-        </nav>
-      </header>
-      <section>
-        Section Goes Here
-      </section>
-      <footer>
-        Footer Goes Here
-      </footer>
-    </>
+    <main>
+      <Content />
+      <Footer />
+    </main>
   )
 }
 

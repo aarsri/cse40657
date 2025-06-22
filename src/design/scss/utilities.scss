@@ -1,0 +1,91 @@
+@use 'sass:color';
+$percent: 50%;
+$shading: 15%;
+
+$primary: #0A2342;
+$primary-bg: color.scale($primary,$whiteness: $percent);
+$primary-text: color.scale($primary, $blackness: $percent);
+
+$secondary: #9FA0C3;
+$secondary-bg: color.scale($secondary, $whiteness: $percent);
+$secondary-text: color.scale($secondary, $blackness: $percent);
+
+$accent: #F79256;
+$accent-bg: color.scale($accent, $whiteness: $percent);
+$accent-text: color.scale($accent, $blackness: $percent);
+
+$bg: #ACE1AF;
+$bright-bg: color.scale($bg, $whiteness: $shading);
+$light-bg: color.scale($bright-bg, $whiteness: $shading);
+$dim-bg: color.scale($bg, $blackness: $shading);
+$dark-bg: color.scale($dim-bg, $blackness: $shading);
+
+$light-text: #ededed;
+$dark-text: #111111;
+
+$thin-text: 100;
+$slim-text: 300;
+$regular-text: 400;
+$bold-text: 700;
+$thick-text: 900;
+
+$margin-xs: 5px;
+$margin-s: 10px;
+$margin-m: 15px;
+$margin-l: 20px;
+$margin-xl: 25px;
+
+$padding-xs: 5px;
+$padding-s: 10px;
+$padding-m: 15px;
+$padding-l: 20px;
+$padding-xl: 25px;
+
+$pill-radius: 10px;
+$round-radius: 25px;
+
+$breakpoints: (
+  phone-sm: 420px,
+  phone: 767px,
+  tablet: 768px,
+  tablet-lg: 1024px,
+  desktop: 1025px,
+  desktop-lg: 1600px
+);
+
+@mixin for-size($breakpoint, $direction: down) {
+  // If the breakpoint exists in the map.
+  @if map-has-key($breakpoints, $breakpoint) {
+
+    // Get the breakpoint value.
+    $breakpoint-value: map-get($breakpoints, $breakpoint);
+
+    // Determine the direction and then write the media query.
+    @if $direction == up {
+      @media (min-width: $breakpoint-value) {
+        @content;
+      }
+    }
+
+    @else if $direction == down {
+      @media (max-width: $breakpoint-value) {
+        @content;
+      }
+    }
+  }
+
+  // If the breakpoint doesn't exist in the map, pass a manual breakpoint
+  @else {
+    @if $direction == up {
+      @media (min-width: $breakpoint) {
+        @content;
+      }
+    }
+
+    @else if $direction == down {
+      @media (max-width: $breakpoint) {
+        @content;
+      }
+    }
+  }
+}

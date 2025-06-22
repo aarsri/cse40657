@@ -1,0 +1,618 @@
+{
+  "week-1": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Overview & Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "description": "Project Idea",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-2": {
+    "week": "9/1, 9/3, 9/5",
+    "topics": [
+      {
+        "description": "Language Models"
+
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#abcdef",
+        "description": "Project Idea",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-3": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-4": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-5": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-6": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-7": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-8": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-9": {
+    "holiday": "Fall Break"
+  },
+  "week-10": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-11": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-12": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-13": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-14-1": {
+    "week": "11/24",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-14-2": {
+    "holiday": "Thanks Giving"
+  },
+  "week-15": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  },
+  "week-16": {
+    "week": "8/25, 8/27, 8/29",
+    "topics": [
+      {
+        "description": "Introduction To NLP"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+      {
+        "badgeColor": "#0A2342",
+        "description": "homework-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "#abcdef",
+        "description": "project-1",
+        "link": "Link Goes Here"
+      }
+    ]
+  }
+}

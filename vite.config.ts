@@ -10,7 +10,8 @@ export default defineConfig({
       "@components": path.resolve(__dirname, '/src/components'),
       "@img": path.resolve(__dirname, '/src/assets/img'),
       "@svg": path.resolve(__dirname, '/src/assets/svg'),
-      "@design": path.resolve(__dirname, '/src/design/css')
+      "@design": path.resolve(__dirname, '/src/design/css'),
+      "@json": path.resolve(__dirname, '/src/env/json')
     }
   }
 });
