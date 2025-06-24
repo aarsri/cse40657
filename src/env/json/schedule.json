@@ -64,7 +64,7 @@
     ]
   },
   "week-3": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "9/8, 9/10, 9/12",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -106,7 +106,7 @@
     ]
   },
   "week-4": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "9/15, 9/17, 9/19",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -148,7 +148,7 @@
     ]
   },
   "week-5": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "9/22, 9/24, 9/26",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -190,7 +190,7 @@
     ]
   },
   "week-6": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "9/29, 10/1, 10/3",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -232,7 +232,7 @@
     ]
   },
   "week-7": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "10/6, 10/8, 10/10",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -274,7 +274,7 @@
     ]
   },
   "week-8": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "10/13, 10/15, 10/17",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -319,7 +319,7 @@
     "holiday": "Fall Break"
   },
   "week-10": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "10/27, 10/29, 10/31",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -361,7 +361,7 @@
     ]
   },
   "week-11": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "11/3, 11/5, 11/7",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -403,7 +403,7 @@
     ]
   },
   "week-12": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "11/10, 11/12, 11/14",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -445,7 +445,7 @@
     ]
   },
   "week-13": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "11/17, 11/19, 11/21",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -529,10 +529,10 @@
     ]
   },
   "week-14-2": {
-    "holiday": "Thanks Giving"
+    "holiday": "Thanksgiving"
   },
   "week-15": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "12/1, 12/3, 12/5",
     "topics": [
       {
         "description": "Introduction To NLP"
@@ -574,7 +574,7 @@
     ]
   },
   "week-16": {
-    "week": "8/25, 8/27, 8/29",
+    "week": "12/8, 12/10",
     "topics": [
       {
         "description": "Introduction To NLP"
