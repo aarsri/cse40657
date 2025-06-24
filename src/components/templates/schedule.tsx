@@ -1,4 +1,4 @@
-import scheduleInfo from '@json/schedule.json';
+import scheduleInfo from '../../env/json/schedule.json';
 import type { JSX } from 'react/jsx-runtime';
 
 const getFlexDirection = (content: {link: string; description: string; badgeColor: string;}[]) => {
@@ -39,9 +39,10 @@ const Schedule = () => {
   for (let row in scheduleInfo) {
     let cells: JSX.Element[] = [];
 
-    for (let col in scheduleInfo[row]) {
-      const flexDirection = getFlexDirection(scheduleInfo[row][col]);
-      const cellData = generateContent(scheduleInfo[row][col]);
+    for (let col in scheduleInfo[row as keyof typeof scheduleInfo]) {
+      const rowInfo = scheduleInfo[row as keyof typeof scheduleInfo]
+      const flexDirection = getFlexDirection(rowInfo[col as keyof typeof rowInfo]);
+      const cellData = generateContent(rowInfo[col as keyof typeof rowInfo]);
 
       if (col === 'resources' || col === 'assignments') {
         cells.push(
