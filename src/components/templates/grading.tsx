@@ -9,32 +9,30 @@ const Grading = () => {
         <div className="row-area-small">
           <article>
             <h2 className="heading">
-              Points Available
+              Graded Components
             </h2>
 
             <p>
-              Unless otherwise indicated, assignments are due at 5pm Eastern time.
+              Unless otherwise indicated, all assignments are due at 5pm Eastern time.
             </p>
-
-            <p>
-              Your work in this course consists of five homework assignments and a <a href="https://www3.nd.edu/~dchiang/teaching/nlp/2023/project.html" target="_blank">research project</a>.
-            </p>
+            
             <ul>
-              <li>Participation - 47 x 10</li>
-              <li>homework - 5 x 30</li>
-              <li>project - 3 x 30 + 60</li>
-              <li><b>Total:</b> 770</li>
+              <li>Participation: 10</li>
+              <li>Homework: 150 (5x30)</li>
+              <li>Project: 140 (20+25+30+40+25)</li>
+              <li><b>Total:</b> 300</li>
             </ul>
           </article>
 
           <article>
             <h2 className="heading">
-              Links Needed
+              Links
             </h2>
             <ul>
-              <li><a href="" target="_blank">Canvas</a> (for submitting project milestones and for receiving grades and solution sets)</li>
-              <li><a href="" target="_blank">GitHub</a> (for submitting code)</li>
-              <li><a href="" target="_blank">Campuswire</a> (for asking questions and discussion)</li>
+              <li><a href="" target="_blank">Canvas</a> (project milestone submissions, grades)</li>
+              <li><a href="" target="_blank">GitHub</a> (coding homework submissions)</li>
+              <li><a href="" target="_blank">Ed</a> (questions and discussion)</li>
+              <li><a href="" target="_blank">Submission Tracker</a> (declaring late submissions)</li>
             </ul>
           </article>
         </div>
