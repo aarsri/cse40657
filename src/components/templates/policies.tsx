@@ -45,7 +45,7 @@ const Policies = () => {
           </p>
 
           <p>
-            If an instructor sees behavior that is, in his judgement, academically dishonest, he is required to file
+            If an instructor sees behavior that is, in their judgement, academically dishonest, they are required to file
             either an Honor Code Violation Report or a formal report to the College of Engineering Honesty Committee.
           </p>
         </article>
@@ -58,18 +58,13 @@ const Policies = () => {
               </h2>
 
               <p>
-                Students are expected to attend and contribute regularly in class. This means answering questions in class,
-                participating in discussions, and helping other students.
-              </p>
-
-              <p>
-                Foreseeable absences should be discussed with the instructor ahead of time.
+                Regular attendance and active participation are expected. This includes contributing to class discussions, responding to questions, and engaging with others respectfully. If you anticipate an absence, please notify the instructor in advance.
               </p>
             </article>
 
             <article>
               <h2 className="heading">
-                Late Submission
+                Late Submission Policy
               </h2>
 
               <p>
@@ -97,7 +92,7 @@ const Policies = () => {
 
               <p>
                 All other course materials, including lecture recordings and materials written by the instructor and
-                distributed privately (including through Sakai) should not be redistributed in any way; doing so is a
+                distributed privately should not be redistributed in any way; doing so is a
                 violation of both US copyright law and the University of Notre Dame Honor Code.
               </p>
             </article>
