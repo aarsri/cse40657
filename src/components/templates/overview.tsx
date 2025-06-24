@@ -48,7 +48,7 @@ const Overview = () => {
 
         <article>
           <h2 className="heading">
-            Professor - Contact Info
+            Professor
           </h2>
 
           <div className="row-area-small">
@@ -71,12 +71,12 @@ const Overview = () => {
         
         <article>
           <h2 className="heading">
-            TA: TBA
+            TA
           </h2>
 
           <div className="row-area-small">
             <p>
-              <b>Email:</b> asrivas2@nd.edu
+              <b>Email:</b> TBA
             </p>
             <p>
               <b>Office Hours:</b> TBA
@@ -87,7 +87,7 @@ const Overview = () => {
               <b>Office Location:</b> TBA
             </p>
             <p>
-              <b>Pronunciation:</b> ah-ROH-hee shree-VAHS-tuhv
+              <b>Pronunciation:</b> TBA
             </p>
           </div>
         </article>
