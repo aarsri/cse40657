@@ -8,21 +8,12 @@
     ],
     "resources": [
       {
+        "badgeColor": "#F79256",
         "description": "Project Idea",
         "link": "Link Goes Here"
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-2": {
@@ -30,7 +21,6 @@
     "topics": [
       {
         "description": "Language Models"
-
       }
     ],
     "resources": [
@@ -58,7 +48,7 @@
     "assignments": [
       {
         "badgeColor": "#abcdef",
-        "description": "Project Idea",
+        "description": "PM1",
         "link": "Link Goes Here"
       }
     ]
@@ -93,16 +83,6 @@
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-4": {
@@ -137,12 +117,7 @@
     "assignments": [
       {
         "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
+        "description": "HW1",
         "link": "Link Goes Here"
       }
     ]
@@ -177,16 +152,6 @@
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-6": {
@@ -221,12 +186,7 @@
     "assignments": [
       {
         "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
+        "description": "HW2",
         "link": "Link Goes Here"
       }
     ]
@@ -263,12 +223,7 @@
     "assignments": [
       {
         "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
+        "description": "PM2",
         "link": "Link Goes Here"
       }
     ]
@@ -305,12 +260,7 @@
     "assignments": [
       {
         "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
+        "description": "HW3",
         "link": "Link Goes Here"
       }
     ]
@@ -392,12 +342,12 @@
     "assignments": [
       {
         "badgeColor": "#0A2342",
-        "description": "homework-1",
+        "description": "PM3",
         "link": "Link Goes Here"
       },
       {
         "badgeColor": "#abcdef",
-        "description": "project-1",
+        "description": "HW4",
         "link": "Link Goes Here"
       }
     ]
@@ -432,16 +382,6 @@
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-13": {
@@ -474,16 +414,6 @@
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-14-1": {
@@ -516,16 +446,6 @@
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-14-2": {
@@ -563,12 +483,7 @@
     "assignments": [
       {
         "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
+        "description": "HW5",
         "link": "Link Goes Here"
       }
     ]
@@ -603,16 +518,6 @@
       }
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   }
 }
