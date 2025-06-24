@@ -98,11 +98,7 @@ const Overview = () => {
           Course Description
         </h2>
         <p>
-          Computers process massive amounts of information every day in the form of human
-          language. Although they do not understand it, they can learn how to do things like
-          answer questions about it, or translate it into other languages. This course is a
-          systematic introduction to the ideas that form the foundation of current language
-          technologies and research into future language technologies.
+          In this class, students will learn about traditional and contemporary approaches to natural language processing (NLP), grounded in concepts from machine learning and linguistics. They will explore language modeling, parsing, machine translation, and text generation through hands-on coding assignments using Python and PyTorch. Over the course of the semester, students will work on a creative and substantive NLP project with intermediate milestones and presentations.
         </p>
       </article>
     </section>
