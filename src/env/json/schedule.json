@@ -3,7 +3,7 @@
     "week": "8/25, 8/27, 8/29",
     "topics": [
       {
-        "description": "Overview & Introduction To NLP"
+        "description": "Overview"
       }
     ],
     "resources": [
@@ -67,7 +67,7 @@
     "week": "9/8, 9/10, 9/12",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "RNN Language Models"
       }
     ],
     "resources": [
@@ -109,7 +109,7 @@
     "week": "9/15, 9/17, 9/19",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Linguistics Questions w/ Algorithmic Solutions"
       }
     ],
     "resources": [
@@ -151,7 +151,7 @@
     "week": "9/22, 9/24, 9/26",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Parsing"
       }
     ],
     "resources": [
@@ -193,7 +193,7 @@
     "week": "9/29, 10/1, 10/3",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Encoder-Decoder Architecture"
       }
     ],
     "resources": [
@@ -235,7 +235,7 @@
     "week": "10/6, 10/8, 10/10",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Machine Translation"
       }
     ],
     "resources": [
@@ -277,7 +277,7 @@
     "week": "10/13, 10/15, 10/17",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Transformer-Based Language Models"
       }
     ],
     "resources": [
@@ -322,7 +322,7 @@
     "week": "10/27, 10/29, 10/31",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Text Generation"
       }
     ],
     "resources": [
@@ -364,7 +364,7 @@
     "week": "11/3, 11/5, 11/7",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Mid-Semester Project Presentations"
       }
     ],
     "resources": [
@@ -406,7 +406,7 @@
     "week": "11/10, 11/12, 11/14",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Language Model Design and Training"
       }
     ],
     "resources": [
@@ -448,7 +448,7 @@
     "week": "11/17, 11/19, 11/21",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "NLP Tasks"
       }
     ],
     "resources": [
@@ -490,7 +490,7 @@
     "week": "11/24",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "A Taste of NLP Research"
       }
     ],
     "resources": [
@@ -535,7 +535,7 @@
     "week": "12/1, 12/3, 12/5",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Special Topics"
       }
     ],
     "resources": [
@@ -577,7 +577,7 @@
     "week": "12/8, 12/10",
     "topics": [
       {
-        "description": "Introduction To NLP"
+        "description": "Conclusion"
       }
     ],
     "resources": [
