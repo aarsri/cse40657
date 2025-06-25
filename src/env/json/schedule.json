@@ -519,5 +519,37 @@
     ],
     "assignments": [
     ]
+  },
+  "week-17": {
+    "week": "12/12, 12/15-12/18",
+    "topics": [
+      {
+        "description": "Finals Period"
+      }
+    ],
+    "resources": [
+      {
+        "badgeColor": "#F79256",
+        "description": "Reading-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "slide",
+        "description": "slide-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "blog",
+        "description": "blog-1",
+        "link": "Link Goes Here"
+      },
+      {
+        "badgeColor": "video",
+        "description": "video-1",
+        "link": "Link Goes Here"
+      }
+    ],
+    "assignments": [
+    ]
   }
 }

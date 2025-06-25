@@ -18,6 +18,9 @@ const Grading = () => {
             
             <ul>
               <li>Participation: 10</li>
+              <ul>
+                <li>This is a test</li>
+              </ul>
               <li>Homework: 150 (5x30)</li>
               <li>Project: 140 (20+25+30+40+25)</li>
               <li><b>Total:</b> 300</li>

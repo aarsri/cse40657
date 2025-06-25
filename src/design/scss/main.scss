@@ -24,15 +24,15 @@
   height: 100%;
   width: 100%;
   padding: utilities.$padding-xl;
-  @include utilities.for-size(tablet-lg, up) {
-    padding: utilities.$padding-xl calc(utilities.$padding-xl * 3);
-    @include utilities.for-size(desktop-lg, up) {
-      padding: utilities.$padding-xl calc(utilities.$padding-xl * 5);
-    }
-  }
   overflow-x: hidden;
   overflow-y: auto;
   background-color: utilities.$light-bg;
+  @include utilities.for-size(1460px, up) {
+    padding: utilities.$padding-xl calc(utilities.$padding-xl * 4);
+    @include utilities.for-size(desktop-lg, up) {
+      padding: utilities.$padding-xl calc(utilities.$padding-xl * 6);
+    }
+  }
 }
 
 article {
@@ -44,6 +44,10 @@ article {
 
   >ul {
     padding-left: utilities.$margin-m;
+    
+    >ul {
+      padding-left: utilities.$margin-m;
+    }
   }
 }
 
@@ -114,6 +118,7 @@ article {
 .schedule-container {
   .heading {
     margin: 0px;
+    font-size: 16px;
   }
 
   .empty {
@@ -195,14 +200,10 @@ article {
   }
 
   @include utilities.for-size(555px, up) {
-    @include utilities.for-size(1151px, down) {
+    @include utilities.for-size(845px, down) {
       display: flex;
       flex-flow: row wrap;
       gap: utilities.$margin-s;
-
-      .heading {
-        font-size: 16px;
-      }
 
       >div {
         width: calc(50% - 5px);
@@ -225,7 +226,7 @@ article {
     }
   }
 
-  @include utilities.for-size(1152px, up) {
+  @include utilities.for-size(846px, up) {
     overflow: hidden;
     background-color: utilities.$secondary-bg;
     border-radius: utilities.$pill-radius;

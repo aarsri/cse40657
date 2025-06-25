@@ -74,7 +74,7 @@ const Schedule = () => {
         Tentative Schedule
       </div>
 
-      <div className="schedule-container">
+      <article className="schedule-container">
         <div className="row-area show-big">
           <div className="attention">
             <div className='empty heading'>
@@ -98,7 +98,7 @@ const Schedule = () => {
           </div>
         </div>
         {...display}
-      </div>
+      </article>
     </section>
   );
 }
