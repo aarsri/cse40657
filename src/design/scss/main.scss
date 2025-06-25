@@ -51,6 +51,12 @@ article {
   }
 }
 
+div {
+  >p {
+    margin-top: utilities.$margin-s;
+  }
+}
+
 .section-heading {
   color: utilities.$primary;
   border-bottom: solid 1px utilities.$primary;
@@ -90,15 +96,15 @@ article {
       .row-area-small {
         display: flex;
         flex-flow: row nowrap;
-
-        >* {
+        
+        >*{
           flex: 1;
         }
       }
     }
 
 
-    @include utilities.for-size(660px, up) {
+    @include utilities.for-size(760px, up) {
       .row-area-big {
         display: flex;
         flex-flow: row nowrap;
