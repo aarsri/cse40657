@@ -3,7 +3,7 @@ import type { JSX } from 'react/jsx-runtime';
 
 const getFlexDirection = (content: {link: string; description: string; badgeColor: string;}[]) => {
   if (typeof content !== 'object') return '';
-
+  if (content.length < 1) return '';
   return typeof content[0].link !== 'undefined' ? 'full' : '';
 }
 
