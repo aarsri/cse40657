@@ -67,14 +67,29 @@ const Policies = () => {
                 Late Submission Policy
               </h2>
 
-              <p>
-                For university-excused absences (e.g., documented illness, travel for athletics or a job interview),
-                coursework submissions will be accepted late by the same number of days as the excused absence. Otherwise,
-                you may submit part of an assignment on time for full credit and part of the assignment late for a penalty.
-                No part of the assigment may be submitted more than once. The late penalty increases by 5% per day and stops
-                increasing when it reaches 50%; thereafter, it remains at 50% until the final project due date, after which
-                no work may be submitted.
-              </p>
+              <ul>
+                <li><b>Excused Absences</b>: If you have a university-approved reason for missing a deadline (e.g., illnesses, conferences, athletics, interviews), you will receive an extension equal to the number of days missed, without penalty.</li>
+                <ul>
+                  <li>You must notify the instructor via email and provide appropriate documentation.</li>
+                </ul>
+                <li><b>Late Days</b>: You have 3 late days to use throughout the semester for homework assignments only. Each late day extends the deadline by 24 hours without penalty</li>
+                <ul>
+                  <li>You must declare use of late days via the submission tracker form by the original deadline, or the late day will not be counted.</li>
+                  <li>Late days may only be applied to homework assignments, not project milestones or presentations.</li>
+                </ul>
+                <li><b>Late Penalty</b>: Beyond any declared late days, a late penalty of 1.5 points (5%) per day will be applied.
+                <ul>
+                  <li>You may submit work up to 10 days late before hitting the maximum deduction of 15 points (50%).</li>
+                  <li>Submissions more than 10 days late will receive no more than 50% credit.</li>
+                  <li>No work will be accepted after the final project deadline.</li>
+                </ul>
+                <li><b>Partial Submissions</b>: Each homework is divided into 3 parts. You may submit part of a homework on time and others later.
+                <ul>
+                  <li>This way, only the late parts will be penalized.</li>
+                  <li>However, each part may only be submitted once; resubmissions will not be accepted.</li>
+                  <li>To make a partial submission, you must indicate this via the submission tracker form by the original deadline, or any unsubmitted parts will be marked as missing.</li>
+                </ul>
+              </ul>
             </article>
           </div>
 
