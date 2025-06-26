@@ -1,3 +1,35 @@
+# Developing Notes
+This website is built with the vite framework + react library, designed with SCSS and javascript.
+
+### Requirements
+* node.js version 20.13.2 or 22.14.0
+  * for testing and deployment
+* SASS CLI - 1.86.0 compiled with dart2js 3.7.2
+  * Used for developing and compiling scss files
+
+### Web Testing - Locally
+1. cd into the root of the project directory
+2. If newely cloned you will need to run the following CLI command: **npm i**
+3. To start the local dev server run the follwing command: **npm run dev**
+4. the terminal will display a localhost url, vist that
+
+### Web Deployment
+1. Ensure that the latest updates are on the main branch and that you are currently on the main branch
+2. If newely cloned you will need to run the following CLI command: **npm i**
+3. You will need to build a production version of the website by running the following command: **npm run build**
+4. Finally deploy the new build by running the following command: **npm run deploy**
+
+### Web desing - SCSS Compiling
+Do not edit the CSS files as those are generated when the SCSS files are compiled.
+To edit the design of the website use one of the following methods:
+* The usage of CSS via inline styling
+* Reusing class names
+* Editing and compiling of scss files
+
+To debug and compile the scss files use the following SASS CLI command: **sass ./src/design/scss:./src/design/css --style=compressed --no-source-map**
+If multiple updates are needed you can add the following to the end of the command: **--watch**
+This will allow the terminal to automatically compile the SCSS when the file is updated and saved
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
