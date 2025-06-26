@@ -17,12 +17,9 @@ const Grading = () => {
             </p>
             
             <ul>
-              <li>Participation: 10</li>
-              <ul>
-                <li>This is a test</li>
-              </ul>
+              <li>Participation: 15</li>
               <li>Homework: 150 (5x30)</li>
-              <li>Project: 140 (20+25+30+40+25)</li>
+              <li>Project: 135 (15+30+15+45+30)</li>
               <li><b>Total:</b> 300</li>
             </ul>
           </article>
@@ -32,10 +29,8 @@ const Grading = () => {
               Links
             </h2>
             <ul>
-              <li><a href="" target="_blank">Canvas</a> (project milestone submissions, grades)</li>
-              <li><a href="" target="_blank">GitHub</a> (coding homework submissions)</li>
-              <li><a href="" target="_blank">Ed</a> (questions and discussion)</li>
-              <li><a href="" target="_blank">Submission Tracker</a> (declaring late submissions)</li>
+              <li><a href="https://edstem.org/us/join/r4Jt2w" target="_blank">Ed</a> (questions and discussion)</li>
+              <li><a href="https://forms.gle/oPdEhmcgSmGMqUK29" target="_blank">Submission Tracker</a> (declaring late submissions)</li>
             </ul>
           </article>
         </div>
