@@ -26,6 +26,16 @@ const Grading = () => {
 
           <article>
             <h2 className="heading">
+              Participation
+            </h2>
+
+            <p>
+              Regular attendance and active participation are expected. This includes contributing to class discussions, responding to questions, and engaging with others respectfully. If you anticipate an absence, please notify the instructor in advance.
+            </p>
+          </article>
+
+          <article>
+            <h2 className="heading">
               Links
             </h2>
             <ul>
