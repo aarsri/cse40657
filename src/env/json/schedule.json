@@ -133,16 +133,6 @@
     "resources": [
     ],
     "assignments": [
-      {
-        "badgeColor": "#0A2342",
-        "description": "homework-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "#abcdef",
-        "description": "project-1",
-        "link": "Link Goes Here"
-      }
     ]
   },
   "week-11": {
