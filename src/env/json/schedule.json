@@ -7,11 +7,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Project Idea",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -24,32 +19,12 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#abcdef",
+        "badgeColor": "#F79256",
         "description": "PM1",
-        "link": "Link Goes Here"
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.0"
       }
     ]
   },
@@ -61,26 +36,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -93,30 +48,10 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#0A2342",
+        "badgeColor": "#F7566A",
         "description": "HW1",
         "link": "Link Goes Here"
       }
@@ -130,26 +65,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -162,30 +77,10 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#0A2342",
+        "badgeColor": "#F7566A",
         "description": "HW2",
         "link": "Link Goes Here"
       }
@@ -199,32 +94,12 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#0A2342",
+        "badgeColor": "#F79256",
         "description": "PM2",
-        "link": "Link Goes Here"
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.7qru6811cgao"
       }
     ]
   },
@@ -236,30 +111,10 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#0A2342",
+        "badgeColor": "#F7566A",
         "description": "HW3",
         "link": "Link Goes Here"
       }
@@ -276,26 +131,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
@@ -318,35 +153,15 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#0A2342",
+        "badgeColor": "#F79256",
         "description": "PM3",
-        "link": "Link Goes Here"
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.41ueevjp7bu1"
       },
       {
-        "badgeColor": "#abcdef",
+        "badgeColor": "#F7566A",
         "description": "HW4",
         "link": "Link Goes Here"
       }
@@ -360,26 +175,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -392,26 +187,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -424,26 +199,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -459,30 +214,10 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
       {
-        "badgeColor": "#0A2342",
+        "badgeColor": "#F7566A",
         "description": "HW5",
         "link": "Link Goes Here"
       }
@@ -496,26 +231,6 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
     ]
@@ -528,28 +243,18 @@
       }
     ],
     "resources": [
-      {
-        "badgeColor": "#F79256",
-        "description": "Reading-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "slide",
-        "description": "slide-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "blog",
-        "description": "blog-1",
-        "link": "Link Goes Here"
-      },
-      {
-        "badgeColor": "video",
-        "description": "video-1",
-        "link": "Link Goes Here"
-      }
     ],
     "assignments": [
+      {
+        "badgeColor": "#F79256",
+        "description": "PM4",
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.kmnjd0ghwhj2"
+      },
+      {
+        "badgeColor": "#F79256",
+        "description": "PM5",
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.5ltqx85a4cal"
+      }
     ]
   }
 }
