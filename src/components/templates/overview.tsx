@@ -71,12 +71,12 @@ const Overview = () => {
         
         <article>
           <h2 className="heading">
-            TA
+            TA: Ken Sible
           </h2>
 
           <div className="row-area-small">
             <p>
-              <b>Email:</b> TBA
+              <b>Email:</b> ksible@nd.edu
             </p>
             <p>
               <b>Office Hours:</b> TBA
