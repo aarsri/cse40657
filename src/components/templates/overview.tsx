@@ -56,7 +56,7 @@ const Overview = () => {
               <b>Email:</b> asrivas2@nd.edu
             </p>
             <p>
-              <b>Office Hours:</b> TBA
+              <b>Office Hours:</b> Wednesdays 2:30-4:30 pm
             </p>
           </div>
           <div className="row-area-small">
@@ -79,15 +79,15 @@ const Overview = () => {
               <b>Email:</b> ksible@nd.edu
             </p>
             <p>
-              <b>Office Hours:</b> TBA
+              <b>Office Hours:</b> Thursdays 2-4 pm
             </p>
           </div>
           <div className="row-area-small">
             <p>
-              <b>Office Location:</b> TBA
+              <b>Office Location:</b> Fitzpatrick 150M
             </p>
             <p>
-              <b>Pronunciation:</b> TBA
+              <b>Pronunciation:</b> KEN SIGH-buhl
             </p>
           </div>
         </article>
