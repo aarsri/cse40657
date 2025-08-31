@@ -41,6 +41,7 @@ const Grading = () => {
             <ul>
               <li><a href="https://edstem.org/us/join/r4Jt2w" target="_blank">Ed</a> (questions and discussion)</li>
               <li><a href="https://forms.gle/oPdEhmcgSmGMqUK29" target="_blank">Submission Tracker</a> (declaring late submissions)</li>
+              <li><a href="https://forms.gle/GEpdHcRbJy3dWMFU8" target="_blank">Anonymous Form</a> (class content)</li>
             </ul>
           </article>
         </div>

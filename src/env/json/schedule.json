@@ -11,6 +11,11 @@
         "badgeColor": "#7FDA62",
         "description": "Slides",
         "link": "https://docs.google.com/presentation/d/15hKNDYHH45JTYgXI-kvHXsE1pVZgjkbn9G0PwH9GFGE/edit?usp=sharing"
+      },
+      {
+        "badgeColor": "#0AE6DF",
+        "description": "Chapter",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter1.pdf"
       }
     ],
     "assignments": [
@@ -24,6 +29,16 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#7FDA62",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1NudkWMm-KFcGppS6Q4HKEsIiatIHr4y9RzdFZMuLIAE/edit?usp=sharing"
+      },
+      {
+        "badgeColor": "#0AE6DF",
+        "description": "Chapter",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
+      }
     ],
     "assignments": [
       {
