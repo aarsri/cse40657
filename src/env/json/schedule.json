@@ -8,12 +8,12 @@
     ],
     "resources": [
       {
-        "badgeColor": "#7FDA62",
+        "badgeColor": "#4FED82",
         "description": "Slides",
         "link": "https://docs.google.com/presentation/d/15hKNDYHH45JTYgXI-kvHXsE1pVZgjkbn9G0PwH9GFGE/edit?usp=sharing"
       },
       {
-        "badgeColor": "#0AE6DF",
+        "badgeColor": "#47C5F5",
         "description": "Chapter",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter1.pdf"
       }
@@ -30,12 +30,12 @@
     ],
     "resources": [
       {
-        "badgeColor": "#7FDA62",
+        "badgeColor": "#4FED82",
         "description": "Slides",
         "link": "https://docs.google.com/presentation/d/1NudkWMm-KFcGppS6Q4HKEsIiatIHr4y9RzdFZMuLIAE/edit?usp=sharing"
       },
       {
-        "badgeColor": "#0AE6DF",
+        "badgeColor": "#47C5F5",
         "description": "Chapter",
         "link": "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
       }
@@ -56,6 +56,16 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#AF96E5",
+        "description": "Background",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/6.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Chapter",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/13.pdf"
+      }
     ],
     "assignments": [
     ]
