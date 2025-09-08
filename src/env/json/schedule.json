@@ -57,6 +57,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1r6662na87PTX05nmKUipn_nFCL9zl8S5BkbuUOLBcZk/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#AF96E5",
         "description": "Background",
         "link": "https://web.stanford.edu/~jurafsky/slp3/6.pdf"
