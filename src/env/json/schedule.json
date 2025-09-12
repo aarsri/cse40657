@@ -63,12 +63,12 @@
       },
       {
         "badgeColor": "#AF96E5",
-        "description": "Background",
+        "description": "Neural Networks",
         "link": "https://web.stanford.edu/~jurafsky/slp3/6.pdf"
       },
       {
         "badgeColor": "#47C5F5",
-        "description": "Chapter",
+        "description": "RNN/LSTM",
         "link": "https://web.stanford.edu/~jurafsky/slp3/13.pdf"
       }
     ],
@@ -83,6 +83,16 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Morphology",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter5.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "POS Tagging",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/17.pdf"
+      }
     ],
     "assignments": [
       {
@@ -100,6 +110,21 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Syntax",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter6.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "CFG/CKY",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/18.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Dependency Parsing",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/19.pdf"
+      }
     ],
     "assignments": [
     ]
