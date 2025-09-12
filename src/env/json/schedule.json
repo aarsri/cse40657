@@ -14,7 +14,7 @@
       },
       {
         "badgeColor": "#47C5F5",
-        "description": "Chapter",
+        "description": "Intro",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter1.pdf"
       }
     ],
@@ -36,7 +36,7 @@
       },
       {
         "badgeColor": "#47C5F5",
-        "description": "Chapter",
+        "description": "n-gram",
         "link": "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
       }
     ],
