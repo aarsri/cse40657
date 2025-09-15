@@ -84,6 +84,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/14k88jv1yWhMMoRYMQv0NAptbjy-DzPFqbWXk6vmKybA/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#47C5F5",
         "description": "Morphology",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter5.pdf"
