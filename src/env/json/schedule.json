@@ -116,6 +116,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1ZDxtOmAH0yYkClddSiqB2f9nHTkM0ETnKdQ9jxx3X2E/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#47C5F5",
         "description": "Syntax",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter6.pdf"
