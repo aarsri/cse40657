@@ -147,6 +147,16 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1H7qRHgO2cwYDNvrWE6zfEButyUbgwWwdvHnnkBbQIe0/edit?usp=sharing"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Transformers",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/8.pdf"
+      }
     ],
     "assignments": [
       {
@@ -164,6 +174,16 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#47C5F5",
+        "description": "MT 1",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter3.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "MT 2",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/12.pdf"
+      },
     ],
     "assignments": [
       {
