@@ -154,8 +154,8 @@
       },
       {
         "badgeColor": "#47C5F5",
-        "description": "Transformers",
-        "link": "https://web.stanford.edu/~jurafsky/slp3/8.pdf"
+        "description": "MT 1",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter3.pdf"
       }
     ],
     "assignments": [
@@ -176,8 +176,8 @@
     "resources": [
       {
         "badgeColor": "#47C5F5",
-        "description": "MT 1",
-        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter3.pdf"
+        "description": "Transformers",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/8.pdf"
       },
       {
         "badgeColor": "#47C5F5",
