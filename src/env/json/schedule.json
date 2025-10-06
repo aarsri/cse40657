@@ -175,6 +175,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1-fq_HJcE7XCqzAsMHwthMeC5d836Ou84yK0FJuQq0dw/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#47C5F5",
         "description": "Transformers",
         "link": "https://web.stanford.edu/~jurafsky/slp3/8.pdf"
@@ -239,11 +244,6 @@
         "badgeColor": "#F79256",
         "description": "PM3",
         "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.41ueevjp7bu1"
-      },
-      {
-        "badgeColor": "#F7566A",
-        "description": "HW4",
-        "link": "https://docs.google.com/document/d/1K8s_Ecms0cIqRO1PKPFs2bfFVFfZpc1nFoEhtxRlCaM/edit?tab=t.vzzfyyxeyrok"
       }
     ]
   },
@@ -257,6 +257,11 @@
     "resources": [
     ],
     "assignments": [
+      {
+        "badgeColor": "#F7566A",
+        "description": "HW4",
+        "link": "https://docs.google.com/document/d/1K8s_Ecms0cIqRO1PKPFs2bfFVFfZpc1nFoEhtxRlCaM/edit?tab=t.vzzfyyxeyrok"
+      }
     ]
   },
   "week-13": {
