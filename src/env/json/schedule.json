@@ -153,6 +153,11 @@
         "link": "https://docs.google.com/presentation/d/1H7qRHgO2cwYDNvrWE6zfEButyUbgwWwdvHnnkBbQIe0/edit?usp=sharing"
       },
       {
+        "badgeColor": "#AF96E5",
+        "description": "Transformer",
+        "link": "https://jalammar.github.io/illustrated-transformer/"
+      },
+      {
         "badgeColor": "#47C5F5",
         "description": "MT 1",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter3.pdf"
@@ -181,7 +186,7 @@
       },
       {
         "badgeColor": "#47C5F5",
-        "description": "Transformers",
+        "description": "Transformer",
         "link": "https://web.stanford.edu/~jurafsky/slp3/8.pdf"
       },
       {
@@ -333,12 +338,12 @@
       {
         "badgeColor": "#F79256",
         "description": "PM4",
-        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.kmnjd0ghwhj2"
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.5ltqx85a4cal"
       },
       {
         "badgeColor": "#F79256",
         "description": "PM5",
-        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.5ltqx85a4cal"
+        "link": "https://docs.google.com/document/d/1FeF9Z0Y0pOfiJsA0L7hBGPxCawm2oGAg86EaWoTugXA/edit?tab=t.kmnjd0ghwhj2"
       }
     ]
   }
