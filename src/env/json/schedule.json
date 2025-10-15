@@ -215,6 +215,16 @@
         "badgeColor": "#4FED82",
         "description": "Slides",
         "link": "https://docs.google.com/presentation/d/1lxOeTS-EjtoyjYM1Xs-PShXr-V9AxXz0qD8A4xV4TyM/edit?usp=sharing"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "LLMs",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/7.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "MLMs",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/10.pdf"
       }
     ],
     "assignments": [
