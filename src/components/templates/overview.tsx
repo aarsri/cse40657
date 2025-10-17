@@ -61,7 +61,7 @@ const Overview = () => {
           </div>
           <div className="row-area-small">
             <p>
-              <b>Office Location:</b> TBA
+              <b>Office Location:</b> Cushing 121A
             </p>
             <p>
               <b>Pronunciation:</b> ah-ROH-hee shree-VAHS-tuhv
