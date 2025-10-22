@@ -55,7 +55,7 @@ const Overview = () => {
       <div className="row-area-big">
         <article>
           <h2 className="heading">
-            First Half TA: Ken Sible
+            TA (First Half): Ken Sible
           </h2>
 
           <div className="row-area-small">
@@ -78,12 +78,12 @@ const Overview = () => {
 
         <article>
           <h2 className="heading">
-            Second Half TA: TBA
+            TA (Second Half): Chihiro Taguchi
           </h2>
 
           <div className="row-area-small">
             <p>
-              <b>Email:</b> TBA
+              <b>Email:</b> ctaguchi@nd.edu
             </p>
             <p>
               <b>Office Hours:</b> Thursdays 2-4 pm
@@ -94,7 +94,7 @@ const Overview = () => {
               <b>Office Location:</b> Fitzpatrick 150M
             </p>
             <p>
-              <b>Pronunciation:</b> TBA
+              <b>Pronunciation:</b>
             </p>
           </div>
         </article>
