@@ -5,50 +5,32 @@ const Overview = () => {
         Course Information
       </h1>
 
-      <article className="hide-big">
-        <h2 className="heading">
-          Natural Language Processing
-        </h2>
-        <div className="row-area-small">
-          <p>
-            <b>Term:</b> Fall 2025
-          </p>
-          <p>
-            <b>Time:</b> MWF 11:30-12:20
-          </p>
-        </div>
-        <div className="row-area-small">
-          <p>
-            <b>Location:</b> DeBartolo 310
-          </p>
-          <p>
-            <b>Instructor:</b> Aarohi Srivastava
-          </p>
-        </div>
-      </article>
-
       <div className="row-area-big">
-        <article className="show-big">
+        <article>
           <h2 className="heading">
             Natural Language Processing
           </h2>
-          <p>
-            <b>Term:</b> Fall 2025
-          </p>
-          <p>
-            <b>Time:</b> MWF 11:30-12:20
-          </p>
-          <p>
-            <b>Location:</b> DeBartolo 310
-          </p>
-          <p>
-            <b>Instructor:</b> Aarohi Srivastava
-          </p>
+          <div className="row-area-small">
+            <p>
+              <b>Term:</b> Fall 2025
+            </p>
+            <p>
+              <b>Time:</b> MWF 11:30-12:20
+            </p>
+          </div>
+          <div className="row-area-small">
+            <p>
+              <b>Location:</b> DeBartolo 310
+            </p>
+            <p>
+              <b>Instructor:</b> Aarohi Srivastava
+            </p>
+          </div>
         </article>
 
         <article>
           <h2 className="heading">
-            Professor
+            Professor: Aarohi Srivastava
           </h2>
 
           <div className="row-area-small">
@@ -68,10 +50,12 @@ const Overview = () => {
             </p>
           </div>
         </article>
-        
+      </div>
+
+      <div className="row-area-big">
         <article>
           <h2 className="heading">
-            TA: Ken Sible
+            First Half TA: Ken Sible
           </h2>
 
           <div className="row-area-small">
@@ -88,6 +72,29 @@ const Overview = () => {
             </p>
             <p>
               <b>Pronunciation:</b> KEN SIGH-buhl
+            </p>
+          </div>
+        </article>
+
+        <article>
+          <h2 className="heading">
+            Second Half TA: TBA
+          </h2>
+
+          <div className="row-area-small">
+            <p>
+              <b>Email:</b> TBA
+            </p>
+            <p>
+              <b>Office Hours:</b> Thursdays 2-4 pm
+            </p>
+          </div>
+          <div className="row-area-small">
+            <p>
+              <b>Office Location:</b> Fitzpatrick 150M
+            </p>
+            <p>
+              <b>Pronunciation:</b> TBA
             </p>
           </div>
         </article>
