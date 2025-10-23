@@ -246,6 +246,11 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Generation",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter8.pdf"
+      }
     ],
     "assignments": [
     ]
@@ -271,10 +276,20 @@
     "week": "11/10, 11/12, 11/14",
     "topics": [
       {
-        "description": "Language Model Design and Training"
+        "description": "Semantic Representations"
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Semantics",
+        "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter7.pdf"
+      },
+      {
+        "badgeColor": "#47C5F5",
+        "description": "Logical Representation",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/H.pdf"
+      }
     ],
     "assignments": [
       {
@@ -288,7 +303,7 @@
     "week": "11/17, 11/19, 11/21",
     "topics": [
       {
-        "description": "NLP Tasks"
+        "description": "Interpretability and Visualization"
       }
     ],
     "resources": [
