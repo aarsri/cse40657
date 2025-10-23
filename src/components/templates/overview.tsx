@@ -94,7 +94,7 @@ const Overview = () => {
               <b>Office Location:</b> Fitzpatrick 150M
             </p>
             <p>
-              <b>Pronunciation:</b>
+              <b>Pronunciation:</b> chee-HEE-row tah-GOO-chee
             </p>
           </div>
         </article>
