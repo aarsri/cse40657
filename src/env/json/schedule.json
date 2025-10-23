@@ -35,7 +35,7 @@
         "link": "https://docs.google.com/presentation/d/1NudkWMm-KFcGppS6Q4HKEsIiatIHr4y9RzdFZMuLIAE/edit?usp=sharing"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "n-gram",
         "link": "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
       }
@@ -67,7 +67,7 @@
         "link": "https://web.stanford.edu/~jurafsky/slp3/6.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "RNN/LSTM",
         "link": "https://web.stanford.edu/~jurafsky/slp3/13.pdf"
       }
@@ -94,7 +94,7 @@
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter5.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "POS Tagging",
         "link": "https://web.stanford.edu/~jurafsky/slp3/17.pdf"
       }
@@ -126,12 +126,12 @@
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter6.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "CFG/CKY",
         "link": "https://web.stanford.edu/~jurafsky/slp3/18.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "Dependency Parsing",
         "link": "https://web.stanford.edu/~jurafsky/slp3/19.pdf"
       }
@@ -153,14 +153,14 @@
         "link": "https://docs.google.com/presentation/d/1H7qRHgO2cwYDNvrWE6zfEButyUbgwWwdvHnnkBbQIe0/edit?usp=sharing"
       },
       {
-        "badgeColor": "#AF96E5",
-        "description": "Transformer",
-        "link": "https://jalammar.github.io/illustrated-transformer/"
-      },
-      {
         "badgeColor": "#47C5F5",
         "description": "MT 1",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter3.pdf"
+      },
+      {
+        "badgeColor": "#AF96E5",
+        "description": "Transformer",
+        "link": "https://jalammar.github.io/illustrated-transformer/"
       }
     ],
     "assignments": [
@@ -185,12 +185,12 @@
         "link": "https://docs.google.com/presentation/d/1-fq_HJcE7XCqzAsMHwthMeC5d836Ou84yK0FJuQq0dw/edit?usp=sharing"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "Transformer",
         "link": "https://web.stanford.edu/~jurafsky/slp3/8.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "MT 2",
         "link": "https://web.stanford.edu/~jurafsky/slp3/12.pdf"
       }
@@ -217,12 +217,12 @@
         "link": "https://docs.google.com/presentation/d/1lxOeTS-EjtoyjYM1Xs-PShXr-V9AxXz0qD8A4xV4TyM/edit?usp=sharing"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "LLMs",
         "link": "https://web.stanford.edu/~jurafsky/slp3/7.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "MLMs",
         "link": "https://web.stanford.edu/~jurafsky/slp3/10.pdf"
       }
@@ -286,7 +286,7 @@
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter7.pdf"
       },
       {
-        "badgeColor": "#47C5F5",
+        "badgeColor": "#AF96E5",
         "description": "Logical Representation",
         "link": "https://web.stanford.edu/~jurafsky/slp3/H.pdf"
       }
