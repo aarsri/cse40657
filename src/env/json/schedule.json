@@ -247,6 +247,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1dBxAbGJHmxP4usZkVt2C4Vuq0UZwl97H0PFGCe2_JII/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#47C5F5",
         "description": "Generation",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter8.pdf"
