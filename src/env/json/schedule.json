@@ -286,6 +286,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1XGDD_wmJn4bHoze3IUmsIuAvkC4h69Ow0iOy1v9mB9s/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#47C5F5",
         "description": "Semantics",
         "link": "https://www3.nd.edu/~dchiang/teaching/nlp/2023/notes/chapter7.pdf"
