@@ -321,6 +321,11 @@
         "badgeColor": "#4FED82",
         "description": "Slides",
         "link": "https://docs.google.com/presentation/d/1tVYqF6u-qgMABxs3EAsS9T7eTrTH64oOgTmVkKxCGeU/edit?usp=sharing"
+      },
+      {
+        "badgeColor": "#AF96E5",
+        "description": "LLMs",
+        "link": "https://arxiv.org/pdf/2402.06196"
       }
     ],
     "assignments": [
@@ -330,10 +335,15 @@
     "week": "11/24",
     "topics": [
       {
-        "description": "A Taste of NLP Research"
+        "description": "LLMs"
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#AF96E5",
+        "description": "LLM Post-training",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/9.pdf"
+      }
     ],
     "assignments": [
     ]
@@ -345,7 +355,7 @@
     "week": "12/1, 12/3, 12/5",
     "topics": [
       {
-        "description": "Special Topics"
+        "description": "Multilinguality"
       }
     ],
     "resources": [
