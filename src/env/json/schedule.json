@@ -340,6 +340,11 @@
     ],
     "resources": [
       {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1WykXJeHQpnhmDSnLRsc-5AbO2EG8cJELsHwREtJhIhI/edit?usp=sharing"
+      },
+      {
         "badgeColor": "#AF96E5",
         "description": "LLM Post-training",
         "link": "https://web.stanford.edu/~jurafsky/slp3/9.pdf"
