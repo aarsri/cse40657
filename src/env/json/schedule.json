@@ -368,6 +368,16 @@
         "badgeColor": "#4FED82",
         "description": "Slides",
         "link": "https://docs.google.com/presentation/d/1g8ttwnnHyQ8iMfnHrfAVNiMZBn8wHu9Yr0CUkd8Lqpk/edit?usp=sharing"
+      },
+      {
+        "badgeColor": "#AF96E5",
+        "description": "ASR",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/15.pdf"
+      },
+      {
+        "badgeColor": "#AF96E5",
+        "description": "TTS",
+        "link": "https://web.stanford.edu/~jurafsky/slp3/16.pdf"
       }
     ],
     "assignments": [
