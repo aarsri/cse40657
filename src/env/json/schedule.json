@@ -364,6 +364,11 @@
       }
     ],
     "resources": [
+      {
+        "badgeColor": "#4FED82",
+        "description": "Slides",
+        "link": "https://docs.google.com/presentation/d/1g8ttwnnHyQ8iMfnHrfAVNiMZBn8wHu9Yr0CUkd8Lqpk/edit?usp=sharing"
+      }
     ],
     "assignments": [
       {
